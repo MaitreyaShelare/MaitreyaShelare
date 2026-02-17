@@ -1,4 +1,4 @@
-
+<!---
 <h1 align="center"> <br>
   <img src="/GIF/Hi%20emoji.gif" width="29px"/>
   Greetings, I am Maitreya Shelare.
@@ -7,7 +7,7 @@
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%43dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 
-<!---
+
 
 ## My GitHub Statistics
 
