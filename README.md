@@ -1,11 +1,4 @@
 
-[![GitHub Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=github&logoColor=000000&link=https://github.com/MaitreyaShelare?tab=followers)](https://github.com/MaitreyaShelare?tab=followers)
-[![Follower Count](https://img.shields.io/github/followers/MaitreyaShelare?label=Followers&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Maitreya001&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare) 
-[![Twitter Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=twitter&link=https://twitter.com/maitreyashelare)](https://twitter.com/maitreyashelare)
-[![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/maitreyashelare)](https://www.linkedin.com/in/maitreyashelare)
-
-
 <h1 align="center"> <br>
   <img src="/GIF/Hi%20emoji.gif" width="29px"/>
   Greetings, I am Maitreya Shelare.
